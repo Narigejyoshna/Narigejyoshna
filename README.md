@@ -12,7 +12,6 @@ Hi there! I’m Narige Jyoshna, a passionate learner and aspiring developer. �
 
 📫 Reach me at: narigejyoshna@gmail.com
 💼 LinkedIn: www.linkedin.com/in/jyoshna-narige
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%3AbadgeContent?style=for-the-badge&logo=java&label=java&color=orange)
 ## 🛠 Skills & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Label-R?style=flat&logo=slug&logoColor=blue&logoSize=auto&label=R&labelColor=black&color=green)
