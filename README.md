@@ -1,6 +1,12 @@
-# Hi there! I'm Narige Jyoshna 👋
+# Hi there! I'm Narige Jyoshna 👋 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Narige%20Jyoshna&fontSize=70" />
+</p>
 
 ### 🚀 3rd Year CSE Student | Aspiring Software Engineer | Problem Solver
+
+I am a passionate Computer Science and Engineering student focused on building efficient, logical solutions. I enjoy bridging the gap between complex mathematical theory and practical code.
 
 ---
 
@@ -14,38 +20,32 @@
 ---
 
 ## 🛠 Tech Stack & Tools
-
-### 🧠 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 📚 Frameworks & Specialized Skills
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,html,css,js,mongodb,git,vscode,postman" />
+  </a>
+</p>
 
 ---
 
-## 🗺️ Strategic Roadmap (Unique Focus)
-- **GATE Mastery:** Deep diving into Discrete Mathematics, OS, and DBMS to secure a top rank.
-- **German Language:** Actively working towards **A1/A2 proficiency** to integrate into the German academic ecosystem.
-- **Technical Rigor:** Transitioning from "writing code" to "architecting systems" with better efficiency.
+## 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Narigejyoshna&theme=radical&no-frame=true&column=7" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Narigejyoshna&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narigejyoshna&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narigejyoshna&theme=react-dark" width="100%" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Jyoshna's Stats](https://github-readme-stats.vercel.app/api?username=Narigejyoshna&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narigejyoshna&layout=compact&theme=radical)
-
----
-
-## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trishulsunny123@gmail.com)
-
----
-
-> "Action is indeed better than inaction." - *Bhagavad Gita*
+## 📬 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/jyoshna-narige" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoshna-narige" height="30" width="40" /></a>
+<a href="mailto:narigejyoshna@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="narigejyoshna" height="30" width="40" /></a>
+</p>
