@@ -1,6 +1,6 @@
 # Hi there! I'm Narige Jyoshna 👋 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=40&pause=1000&color=lightgreen&center=true&vCenter=true&width=600&lines=Welcome+to+my+code+space+✨;B.Tech+CSE+Student;Passionate+about+Logic;Aspiring+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=40&pause=1000&color=lightgreen&center=true&vCenter=true&width=600&lines=Welcome+to+my+code+space+✨;B.Tech+CSE+Student" alt="Typing SVG" />
 
 ### 🚀 3rd Year CSE Student | Aspiring Software Engineer | Problem Solver
 
@@ -62,7 +62,7 @@ I am a passionate Computer Science and Engineering student focused on building e
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narigejyoshna&theme=dracula" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narigejyoshna&theme=dracula" width="50%" />
 </p>
 
 ---
@@ -77,7 +77,5 @@ I am a passionate Computer Science and Engineering student focused on building e
 
 > "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." — *Steve Jobs*
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Narigejyoshna/count.svg" alt="Visitor Counter" />
-</p>
+
 
