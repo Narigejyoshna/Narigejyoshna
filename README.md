@@ -1,7 +1,7 @@
 # Hi there! I'm Narige Jyoshna 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=A97CF8&center=true&vCenter=true&width=600&lines=Narige+Jyoshna;B.Tech+CSE+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Narige%20Jyoshna&fontSize=70&animation=fadeIn" />
 </p>
 
 ### 🚀 3rd Year CSE Student | Aspiring Software Engineer | Problem Solver
