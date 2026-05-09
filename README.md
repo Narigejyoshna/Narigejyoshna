@@ -1,7 +1,7 @@
 # Hi there! I'm Narige Jyoshna 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Narige%20Jyoshna&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=root@jyoshna:~$&fontSize=50&fontAlignY=40" />
 </p>
 
 ### 🚀 3rd Year CSE Student | Aspiring Software Engineer | Problem Solver
