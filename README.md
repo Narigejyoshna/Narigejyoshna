@@ -1,8 +1,6 @@
 # Hi there! I'm Narige Jyoshna 👋 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=root@jyoshna:~$&fontSize=50&fontAlignY=40" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=40&pause=1000&color=lightgreen&center=true&vCenter=true&width=600&lines=Welcome+to+my+code+space+✨;B.Tech+CSE+Student;Passionate+about+Logic;Aspiring+Engineer" alt="Typing SVG" />
 
 ### 🚀 3rd Year CSE Student | Aspiring Software Engineer | Problem Solver
 
@@ -10,13 +8,12 @@ I am a passionate Computer Science and Engineering student focused on building e
 
 ---
 
-## 🚀 About Me
-- 🎓 **Currently pursuing:** B.Tech in Computer Science and Engineering (3rd Year).
-- 🧠 **Focus Areas:** Improving logic building, Full Stack Development, and Algorithmic Problem Solving.
-- 🎯 **Current Goals:** Preparing for the **GATE 2027** examination and exploring higher education opportunities in **Germany** 🇩🇪.
-- 🤝 **Collaboration:** I am looking to contribute to open-source projects that solve real-world problems.
-- 📖 **Inspiration:** *"Perform your obligatory duty, because action is indeed better than inaction."* — **Bhagavad Gita**
+### ✨ABOUT ME
 
+- **Education:** Pursuing B.Tech in CSE (Batch of 2027)
+- **Current Focus:** Strengthening my expertise in **Java**, **Data Structures**, and **Modern Web Technologies**.
+- **Project Goals:** Developing real-world applications that solve everyday problems.
+- **Mindset:** Always learning, always coding, and striving for better logic every day.
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -44,8 +41,17 @@ I am a passionate Computer Science and Engineering student focused on building e
 
 ---
 
-## 📬 Connect with me
+### 📬 Let's Connect!
 <p align="left">
-<a href="https://www.linkedin.com/in/jyoshna-narige" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoshna-narige" height="30" width="40" /></a>
-<a href="mailto:narigejyoshna@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="narigejyoshna" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jyoshna-narige" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
+<a href="mailto:narigejyoshna@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
+
+> "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." — *Steve Jobs*
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Narigejyoshna/count.svg" alt="Visitor Counter" />
+</p>
+
